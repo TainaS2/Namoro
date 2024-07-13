@@ -221,6 +221,7 @@ li.slick-active button{
 }
 div.cinza{
     width: 100%;
+    margin-top: 100px;
     height: 765px;
     background-color: #800000;
 }
